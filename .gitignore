@@ -1,0 +1,47 @@
+# Конфиденциальные файлы
+Config.xcconfig
+
+# macOS и Xcode системные файлы
+.DS_Store
+*.swp
+*.lock
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/
+xcuserdata/
+
+# Логи, временные файлы и кэши Xcode
+*.log
+DerivedData/
+.idea/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Package Manager
+# Исключает кэшированные файлы SwiftPM
+.build/
+.swiftpm/
+
+# Realm Database
+*.realm
+*.realm.lock
+*.realm.management/
+
+# Исключение файлов конфигурации и кэшей
+Pods/
+Podfile.lock
+Carthage/
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/README.md
+tmp/

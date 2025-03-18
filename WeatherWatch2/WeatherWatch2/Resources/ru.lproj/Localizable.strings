@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  WeatherWatch
+
+  Created by Evgeniy Fakhretdinov on 12.09.2024.
+  
+*/
+
+"City" = "Город";
+"Description" = "Описание";
+"Fetching the weather..." = "Загрузка прогноза...";
+"Weather watch" = "Погодный монитор";
+"Sunrise" = "Восход";
+"Sunset" = "Закат";
+"Wind" = "Ветер";
+"Humidity" = "Влаж.";
+"Pressure" = "Давл.";
+"Temperature" = "Температура";
+"Wind Speed" = "Скорость ветра";
+"PressureSetting" = "Давление";
+"Theme" = "Тема";
+"Edit" = "Изменить";
+"Done" = "Готово";
+"No Internet Connection" = "Нет соединения с Интернетом";
+"Check your connection and try again." = "Проверьте подключение и попробуйте снова.";
+"Now" = "Сейчас";
+"Light" = "Светлая";
+"Dark" = "Тёмная";
+"m/s" = "м/с";
+"km/h" = "км/ч";
+"mph" = "ми/ч";
+"knots" = "уз";
+"hPa" = "гПа";
+"mmHg" = "мм рт.ст.";
+"mbar" = "мбар";
+"inHg" = "д.рт.ст.";
+"Search city" = "Поиск города";
+"Settings" = "Настройки";
+"City already exists" = "Город уже существует";
+"%@ is already in your list." = "%@ уже в вашем списке.";
+"Feels like" = "Ощущается как";
+" - Current Location" = " - Текущее местоположение";
+"Weather" = "Погода";
+"knotsSettings" = "узлы";
+"mphSettings" = "миль/ч";
+"inHgSettings" = "д.рт.ст.";
+

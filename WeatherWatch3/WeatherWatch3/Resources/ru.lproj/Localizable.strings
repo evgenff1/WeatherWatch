@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  WeatherWatch
+
+  Created by Evgeniy Fakhretdinov on 12.09.2024.
+  
+*/
+
+"City" = "Город";
+"Description" = "Описание";
+"Fetching the weather..." = "Загрузка прогноза...";
+"Weather watch" = "Погодный монитор";
+"Sunrise" = "Восход";
+"Sunset" = "Закат";
+"Wind" = "Ветер";
+"Humidity" = "Влаж.";
+"Pressure" = "Давл.";
+"Temperature" = "Температура";
+"Wind Speed" = "Скорость ветра";
+"PressureSetting" = "Давление";
+"Theme" = "Тема";
+"Edit" = "Изменить";
+"Done" = "Готово";
+"No Internet Connection" = "Нет соединения с Интернетом";
+"Check your connection and try again." = "Проверьте подключение и попробуйте снова.";
+"Now" = "Сейчас";
+"Light" = "Светлая";
+"Dark" = "Тёмная";
+"m/s" = "м/с";
+"km/h" = "км/ч";
+"mph" = "ми/ч";
+"knots" = "уз";
+"hPa" = "гПа";
+"mmHg" = "мм рт.ст.";
+"mbar" = "мбар";
+"inHg" = "д.рт.ст.";
+"Search city" = "Поиск города";
+"Settings" = "Настройки";
+"City already exists" = "Город уже существует";
+"%@ is already in your list." = "%@ уже в вашем списке.";
+"Feels like" = "Ощущается как";
+" - Current Location" = " - Текущее местоположение";
+"Weather" = "Погода";
+"knotsSettings" = "узлы";
+"mphSettings" = "миль/ч";
+"inHgSettings" = "д.рт.ст.";
+"error_bad_request" = "Некорректный запрос. Пожалуйста, попробуйте снова.";
+"error_unauthorized" = "Неавторизованный доступ. Пожалуйста, проверьте свои учетные данные.";
+"error_forbidden" = "Доступ запрещен. У вас нет разрешения.";
+"error_not_found" = "Запрашиваемый ресурс не найден.";
+"error_too_many_requests" = "Слишком много запросов. Пожалуйста, подождите и попробуйте снова.";
+"error_internal_server_error" = "Ошибка сервера. Пожалуйста, попробуйте позже.";
+"error_bad_gateway" = "Ошибка шлюза. Пожалуйста, попробуйте позже.";
+"error_service_unavailable" = "Сервис временно недоступен. Пожалуйста, попробуйте позже.";
+"error_gateway_timeout" = "Тайм-аут шлюза. Пожалуйста, проверьте соединение.";
+"error_no_internet_connection" = "Нет подключения к интернету. Пожалуйста, проверьте настройки сети.";
+"error_timeout" = "Время ожидания истекло. Пожалуйста, попробуйте снова.";
+"error_unknown" = "Произошла неизвестная ошибка. Пожалуйста, попробуйте снова.";
+"error_decoding" = "Ошибка декодирования данных: %@";
+
+

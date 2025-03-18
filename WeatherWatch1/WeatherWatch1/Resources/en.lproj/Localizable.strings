@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  WeatherWatch
+
+  Created by Evgeniy Fakhretdinov on 12.09.2024.
+  
+*/
+
+"City" = "City";
+"Description" = "Description";
+"Fetching the weather..." = "Fetching the weather...";
+"Weather watch" = "Weather watch";
+"Sunrise" = "Sunrise";
+"Sunset" = "Sunset";
+"Wind" = "Wind";
+"Humidity" = "Humidity";
+"Pressure" = "Pressure";
+"Temperature" = "Temperature";
+"Wind Speed" = "Wind Speed";
+"PressureSetting" = "Pressure";
+"Theme" = "Theme";
+"Edit" = "Edit";
+"Done" = "Done";
+"No Internet Connection" = "No Internet Connection";
+"Check your connection and try again." = "Check your connection and try again.";
+"Now" = "Now";
+"Light" = "Light";
+"Dark" = "Dark";
+"m/s" = "m/s";
+"km/h" = "km/h";
+"mph" = "mph";
+"knots" = "knots";
+"hPa" = "hPa";
+"mmHg" = "mmHg";
+"mbar" = "mbar";
+"inHg" = "inHg";
+"Search city" = "Search city";
+"Settings" = "Settings";
+"City already exists" = "City already exists";
+"%@ is already in your list." = "%@ is already in your list.";
+"Feels like" = "Feels like";
+" - Current Location" = " - Current Location";
+"Weather" = "Weather";
+"knotsSettings" = "knots";
+"mphSettings" = "mph";
+"inHgSettings" = "inHg";
+"error_bad_request" = "Bad request. Please try again.";
+"error_unauthorized" = "Unauthorized access. Please check your credentials.";
+"error_forbidden" = "Access forbidden. You do not have permission.";
+"error_not_found" = "Requested resource not found.";
+"error_too_many_requests" = "Too many requests. Please wait and try again.";
+"error_internal_server_error" = "Server error. Please try again later.";
+"error_bad_gateway" = "Bad gateway. Please try again later.";
+"error_service_unavailable" = "Service is currently unavailable. Please try again later.";
+"error_gateway_timeout" = "Gateway timeout. Please check your connection.";
+"error_no_internet_connection" = "No internet connection. Please check your network settings.";
+"error_timeout" = "Request timed out. Please try again.";
+"error_unknown" = "An unknown error occurred. Please try again.";
+"error_decoding" = "Data decoding error: %@";
+
+
